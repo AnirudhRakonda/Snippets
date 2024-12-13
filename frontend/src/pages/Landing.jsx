@@ -17,7 +17,7 @@ const Landing = () => {
 
             <button
                 onClick={() => navigate("/auth")}
-                className="px-6 py-3 bg-black text-white font-semibold rounded-lg hover:bg-white hover:text-bac transition"
+                className="px-6 py-3 bg-black text-white font-semibold rounded-lg hover:bg-white hover:text-[#1e1e1e] transition"
             >
                 Sign In
             </button>
