@@ -8,10 +8,10 @@ const Landing = () => {
     return (
         <div className="flex  flex-col items-center justify-center h-screen bg-Background text-white">
            
-                <h1 class="text-4xl w-[600px] font-bold text-center mb-8">
+                <h1 className="text-4xl w-[600px] font-bold text-center mb-8">
                     Your Personal Hub for Code Snippets & Algorithms
                 </h1>
-                <p class="text-[px] w-1/2 text-center mt-4 mb-12">
+                <p className="text-[px] w-1/2 text-center mt-4 mb-12">
                     Organize, store, and share code solutions with ease. Collaborate and learn with developers around the globe.
                 </p>
                 
